@@ -17,7 +17,7 @@ h1 {
     justify-content: center;
     gap: 20px;
     padding: 20px;
-    flex-wrap: wrap;
+    flex-wrap: wrap; 
 }
 .imagen-info {
     text-align: center;
@@ -33,9 +33,9 @@ h1 {
 } 
 
 .logo{
-    width: 100%;            /* Ancho del div */
-    height: 300px;           /* Alto del div */
-    color: white;            /* Color del texto */
+    width: 100%;            
+    height: 300px;        
+    color: white;            
     display: flex;
     justify-content: center;
     align-items: center;
